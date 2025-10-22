@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lu
+# Hi 👋, I'm Lu(⚙️ Under active development — new projects and updates on the way!)
 
 🎓 MSc in Software Design & Development | University of Galway  
 💻 Passionate about Full-Stack Web Development, Cloud Systems & Mobile Apps  
@@ -23,26 +23,6 @@ A complete CRUD web application that manages users, books, and transactions.
 - Deployed using AWS EC2 + Docker  
 
 🔗 [View Repository](https://github.com/yourusername/full-stack-library-project)
-
----
-
-#### ✅ React Todos App
-A simple yet well-structured task management app built while learning TypeScript & React.  
-**Tech:** React, TypeScript, Vite  
-- Focused on component reusability and clean state management  
-- Used localStorage for data persistence  
-
-🔗 [View Repository](https://github.com/yourusername/react-todos)
-
----
-
-#### 🍔 Sky Take-Out (Java Backend Practice)
-A food-ordering backend project developed during my Java learning phase.  
-**Tech:** Java, Spring Boot, MyBatis, MySQL  
-- Implemented RESTful endpoints for menu and order management  
-- Practiced layered architecture and service abstraction  
-
-🔗 [View Repository](https://github.com/yourusername/sky-take-out)
 
 ---
 
