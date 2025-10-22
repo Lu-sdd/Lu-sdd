@@ -55,5 +55,5 @@ Currently improving:
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [LinkedIn](https://www.linkedin.com/in/lu-han-973822285/)
 - 📍 Based in Ireland
